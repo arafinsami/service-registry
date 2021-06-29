@@ -6,6 +6,7 @@ plugins {
 
 group = 'com.banbeis'
 version = 'V1'
+sourceCompatibility = '1.8'
 
 repositories {
 	mavenCentral()
